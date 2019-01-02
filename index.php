@@ -1,4 +1,4 @@
 <?php
 echo "Fala!";
-echo "mudei"
+echo "mudei";
 ?>
